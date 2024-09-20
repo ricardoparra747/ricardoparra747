@@ -13,20 +13,17 @@ I am Ricardo, excited about portfolio, programming, data visualization, and AI/M
     <div style="border: 1px solid #000; padding: 10px; text-align: center;">
       <a href="https://www.linkedin.com/in/ricardo-parra-cruz-phd-a7265247/" style="text-decoration: none; color: black;">
         <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;">
-        LinkedIn
-      </a>
+       </a>
     </div>
     <div style="border: 1px solid #000; padding: 10px; text-align: center;">
       <a href="https://orcid.org/0000-0002-2265-5708" style="text-decoration: none; color: black;">
         <img src="https://img.shields.io/badge/ORCID-Profile-green" alt="ORCID" style="vertical-align: middle; margin-right: 10px;">
-        ORCID
-      </a>
+        </a>
     </div>
     <div style="border: 1px solid #000; padding: 10px; text-align: center;">
-      <a href="https://scholar.google.com/citations?user=YOUR_USER_ID" style="text-decoration: none; color: black;">
+      <a href="https://scholar.google.com/citations?user=5rQ1BGUAAAAJ" style="text-decoration: none; color: black;">
         <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" alt="Google Scholar" style="vertical-align: middle; margin-right: 10px;">
-        Google Scholar
-      </a>
+        </a>
     </div>
   </div>
 
